@@ -4,7 +4,7 @@ The billing department project involves creating a formula that can identify ind
 Formula:
 =SORT(FILTER({TabName & Range, TabName & Range}, TabName & Range <0), 2, TRUE)
 
-You can see the link for the project in the unit_chart files.
+You can see the link for the project below:
 ## Google Sheets Links
 
 - [Respite Program Negative Hours](https://docs.google.com/spreadsheets/d/1jcXR3Ea4TsuTFswvWSh4ERMJ08PhzBccaDzutBfbXbs/edit#gid=1401134091)
