@@ -9,3 +9,5 @@ You can see the link for the project below:
 
 - [Respite Program Negative Hours](https://docs.google.com/spreadsheets/d/1jcXR3Ea4TsuTFswvWSh4ERMJ08PhzBccaDzutBfbXbs/edit#gid=1401134091)
 - [ComHab Program Negative Hours](https://docs.google.com/spreadsheets/d/1o_k6hx5CcdiEm4Jl2l-XUEI4i2xmf2sgFEiPEdn80Fc/edit#gid=1622132793)
+
+NOTE: Formula can be located by clicking the first individual name on each colum. (Row 3, Colum A, D, G, J, M)
